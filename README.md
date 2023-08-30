@@ -59,8 +59,21 @@ This will generate the output csv file containing the labels and bounding boxes 
 ## Authors <a name="authors"/>
 - ### [Meshal Alamr](https://github.com/MeshalAlamr)
 - ### [Abdulmajeed Almuarik](https://github.com/CreativeSelf0)
+- ### [Saud Alrasheed](https://github.com/saudnr33)
+- ### [Hussain Alkhayat](https://github.com/HussainAlkhayat)
+- ### [Wael Mobeirek](https://github.com/waelmb)
+- ### [Kumail Alhamoud](https://github.com/m1k2zoo)
+
 ## Code Contribution <a name="contrib"/>
 - ### [Meshal Alamr](https://github.com/MeshalAlamr)
 - #### Notebook, Training, Inference, and Report.
 - ### [Abdulmajeed Almuarik](https://github.com/CreativeSelf0)
 - #### Data Preparation, Training, and Presentation.
+
+## Research Ideas
+- ### [Meshal Alamr](https://github.com/MeshalAlamr)
+- ### [Abdulmajeed Almuarik](https://github.com/CreativeSelf0)
+- ### [Saud Alrasheed](https://github.com/saudnr33)
+- ### [Hussain Alkhayat](https://github.com/HussainAlkhayat)
+- ### [Wael Mobeirek](https://github.com/waelmb)
+- ### [Kumail Alhamoud](https://github.com/m1k2zoo)
